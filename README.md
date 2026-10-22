@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=npuranik05" alt="npuranik05" /></a> </p>
 
-- 🔭 I’m currently working on **PhishSense**
-
 - 🌱 I’m currently learning **AWS Cloud Practitioner Essentials and TensorFlow 2.0**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
